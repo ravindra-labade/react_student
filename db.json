@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "roll": "1",
+      "name": "Ravi",
+      "marks": "98",
+      "id": 1
+    },
+    {
+      "roll": "2",
+      "name": "Rutuja",
+      "marks": "99",
+      "id": 2
+    }
+  ]
+}
